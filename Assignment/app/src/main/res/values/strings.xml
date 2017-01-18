@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="assignment1">Assignment1</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome,</string>
+</resources>
